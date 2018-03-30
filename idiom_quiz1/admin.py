@@ -11,4 +11,5 @@ class AppUserAdmin(admin.ModelAdmin):
 
 @admin.register(Idioms)
 class IdiomsAdmin(admin.ModelAdmin):
+    search_fields = ['chengyu']
     pass
