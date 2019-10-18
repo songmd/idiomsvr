@@ -37,7 +37,7 @@ Scrapy==1.5.0
 service-identity==17.0.0
 six==1.11.0
 Twisted==17.9.0
-urllib3==1.22
+urllib3==1.24.2
 vine==1.1.4
 w3lib==1.19.0
 xmltodict==0.11.0
